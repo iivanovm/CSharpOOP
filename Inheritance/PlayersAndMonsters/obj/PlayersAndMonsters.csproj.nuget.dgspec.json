@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {}
   },
   "projects": {
-    "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
         "projectName": "PlayersAndMonsters",
-        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
+        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\PlayersAndMonsters\\PlayersAndMonsters.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\PlayersAndMonsters\\obj\\",
+        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\PlayersAndMonsters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

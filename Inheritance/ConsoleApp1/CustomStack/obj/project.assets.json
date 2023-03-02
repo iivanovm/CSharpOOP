@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\ConsoleApp1\\CustomStack\\CustomStack.csproj",
+      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\ConsoleApp1\\CustomStack\\CustomStack.csproj",
       "projectName": "CustomStack",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\ConsoleApp1\\CustomStack\\CustomStack.csproj",
+      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\ConsoleApp1\\CustomStack\\CustomStack.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\ConsoleApp1\\CustomStack\\obj\\",
+      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\ConsoleApp1\\CustomStack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

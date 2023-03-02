@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\Restaurant\\Restaurant.csproj",
+      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\Restaurant\\Restaurant.csproj",
       "projectName": "Restaurant",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\Restaurant\\Restaurant.csproj",
+      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\Restaurant\\Restaurant.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\Inheritance\\Restaurant\\obj\\",
+      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Inheritance\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
