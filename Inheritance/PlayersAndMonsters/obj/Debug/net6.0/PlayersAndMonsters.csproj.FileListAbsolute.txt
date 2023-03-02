@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\bin\Debug\net6.0\PlayersAndMonsters.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\refint\PlayersAndMonsters.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\PlayersAndMonsters.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\PlayersAndMonsters\obj\Debug\net6.0\ref\PlayersAndMonsters.dll

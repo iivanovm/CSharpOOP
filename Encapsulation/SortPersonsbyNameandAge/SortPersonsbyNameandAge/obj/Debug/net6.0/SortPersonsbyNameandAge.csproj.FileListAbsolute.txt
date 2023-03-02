@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\bin\Debug\net6.0\SortPersonsbyNameandAge.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\bin\Debug\net6.0\SortPersonsbyNameandAge.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\bin\Debug\net6.0\SortPersonsbyNameandAge.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\bin\Debug\net6.0\SortPersonsbyNameandAge.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\bin\Debug\net6.0\SortPersonsbyNameandAge.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\refint\SortPersonsbyNameandAge.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\SortPersonsbyNameandAge.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\SortPersonsbyNameandAge\obj\Debug\net6.0\ref\SortPersonsbyNameandAge.dll

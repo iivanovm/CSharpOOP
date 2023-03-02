@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\bin\Debug\net6.0\PersonInfo.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\refint\PersonInfo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\PersonInfo\obj\Debug\net6.0\ref\PersonInfo.dll

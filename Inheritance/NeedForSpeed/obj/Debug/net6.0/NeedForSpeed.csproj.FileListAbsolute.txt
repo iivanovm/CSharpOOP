@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll

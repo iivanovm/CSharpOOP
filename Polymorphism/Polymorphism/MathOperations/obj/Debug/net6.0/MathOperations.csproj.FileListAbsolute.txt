@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\bin\Debug\net6.0\MathOperations.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\refint\MathOperations.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\MathOperations.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\MathOperations\obj\Debug\net6.0\ref\MathOperations.dll

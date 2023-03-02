@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\bin\Debug\net6.0\Animals.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\bin\Debug\net6.0\Animals.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\bin\Debug\net6.0\Animals.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\bin\Debug\net6.0\Animals.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\refint\Animals.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Polymorphism\Polymorphism\Animals\obj\Debug\net6.0\ref\Animals.dll
