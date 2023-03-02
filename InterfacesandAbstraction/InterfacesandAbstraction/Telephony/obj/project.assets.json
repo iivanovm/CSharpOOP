@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\Telephony.csproj",
+      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\Telephony.csproj",
       "projectName": "Telephony",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\Telephony.csproj",
+      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\Telephony.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\obj\\",
+      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\Telephony\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

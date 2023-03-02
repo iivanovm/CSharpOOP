@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
+      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
       "projectName": "ExplicitInterfaces",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
+      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\ExplicitInterfaces.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\OOP\\BeforCourse\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\obj\\",
+      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\InterfacesandAbstraction\\InterfacesandAbstraction\\ExplicitInterfaces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
