@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\PizzaCalories.csproj",
+      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\PizzaCalories.csproj",
       "projectName": "PizzaCalories",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\PizzaCalories.csproj",
+      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\obj\\",
+      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\PizzaCalories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

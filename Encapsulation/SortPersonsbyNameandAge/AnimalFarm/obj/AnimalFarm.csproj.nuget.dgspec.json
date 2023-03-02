@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj": {}
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj": {}
   },
   "projects": {
-    "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj": {
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj",
+        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj",
         "projectName": "AnimalFarm",
-        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj",
+        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\AnimalFarm.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\ivan\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\obj\\",
+        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Encapsulation\\SortPersonsbyNameandAge\\AnimalFarm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
