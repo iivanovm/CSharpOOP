@@ -4,8 +4,9 @@ namespace WildFarm.Models;
 
 public class Owl : Bird
 {
+    private const double OwlWPlus= 0.25;
     public Owl(string name, double weight, int foodEaten, double wingSize)
-        : base(name, weight, foodEaten, wingSize)
+        : base(name, weight, foodEaten, wingSize,OwlWPlus)
     {
 
     }

@@ -2,14 +2,17 @@
 
 public abstract class Bird : Animal
 {
+    private double animalEat;
+    private double weight;
+
     protected double WingSize { get; set; }
 
-    protected Bird(string name, double weight, int foodEaten, double wingSize) :
-        base(name, weight, foodEaten)
+    protected Bird(string name, double weight, int foodEaten, double wingSize,double animalWplus) :
+        base(name, weight, foodEaten, animalWplus)
     {
         WingSize = wingSize;
+        
     }
-
 
     public override string ToString()
     {

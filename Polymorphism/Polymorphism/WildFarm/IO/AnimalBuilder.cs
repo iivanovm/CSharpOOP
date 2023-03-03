@@ -21,51 +21,59 @@ public class AnimalBuildr
         return isValid;
     }
 
-    protected int CatFood(string[] input)
+    protected int CatFood(string[] input,string [] anim)
     {
         string foodName = input[0];
+        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<CatEat>(foodName, out CatEat hensEat);
         if (isValid)
         {
             return foodQuantity;
         }
+        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
-    protected int DogFood(string[] input)
+    protected int DogFood(string[] input,string[] anim)
     {
         string foodName = input[0];
+        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<DogEat>(foodName, out DogEat hensEat);
         if (isValid)
         {
             return foodQuantity;
         }
+        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
-    protected int HensFood(string[] input)
+    protected int HensFood(string[] input, string[] anim)
     {
         string foodName = input[0];
+        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<HensEat>(foodName, out HensEat hensEat);
         if (isValid)
         {
             return foodQuantity;
         }
+        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
-    protected int MiceFood(string[] input)
+    protected int MiceFood(string[] input, string[] anim)
     {
         string foodName = input[0];
+        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<MouseEat>(foodName, out MouseEat hensEat);
         if (isValid)
         {
             return foodQuantity;
         }
+        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
@@ -76,25 +84,29 @@ public class AnimalBuildr
         switch (animalType)
         {
             case "Owl":
+                animal = new Owl(Birds(animalInput).Name, Birds(animalInput).Weight, DogFood(eats,animalInput), Birds(animalInput).WingSize); 
                 break;
             case "Hen":
+                animal = new Hen(Birds(animalInput).Name, Birds(animalInput).Weight, HensFood(eats, animalInput), Birds(animalInput).WingSize);
                 break;
             case "Mouse":
+                animal = new Mouse(Dogy(animalInput).Name, Dogy(animalInput).Weight, MiceFood(eats, animalInput), Dogy(animalInput).Living);
                 break;
             case "Dog":
+                animal = new Dog(Dogy(animalInput).Name, Dogy(animalInput).Weight, DogFood(eats, animalInput), Dogy(animalInput).Living);
                 break;
             case "Cat":
-                animal = new Cat(Felines(animalInput).Name,Felines(animalInput).Weight,CatFood(eats),Felines(animalInput).LivingRegion,Felines(animalInput).Breed);
+                animal = new Cat(Felines(animalInput).Name,Felines(animalInput).Weight,CatFood(eats, animalInput),Felines(animalInput).LivingRegion,Felines(animalInput).Breed);
                 break;
             case "Tiger":
+                animal = new Tiger(Felines(animalInput).Name, Felines(animalInput).Weight, DogFood(eats, animalInput), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
                 break;
-
 
         }
         return animal;
     }
 
-    public Birds birds(string[] tokens)
+    public Birds Birds(string[] tokens)
     {
         Birds currentBirds= new Birds();
         currentBirds.Name= tokens[0];

@@ -7,4 +7,6 @@ public struct Felines
     public int food { get; set; }
     public string LivingRegion { get; set; }
     public string Breed { get; set; }
+
+    
 }
