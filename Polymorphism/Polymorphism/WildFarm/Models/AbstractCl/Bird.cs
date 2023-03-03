@@ -9,4 +9,10 @@ public abstract class Bird : Animal
     {
         WingSize = wingSize;
     }
+
+
+    public override string ToString()
+    {
+        return $"{GetType().Name} [{Name}, {WingSize}, {Weight}, {FoodEaten}]";
+    }
 }

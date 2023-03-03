@@ -2,11 +2,18 @@
 
 public abstract class Feline : Mammal
 {
-    protected string Breed { get; private set; }
-
-    protected Feline(string name, double weight, int foodEaten, string breed)
-        : base(name, weight, foodEaten)
+    protected Feline(string name, double weight, int foodEaten, string livingRegion,string breed) 
+        : base(name, weight, foodEaten, livingRegion)
     {
         Breed = breed;
+    }
+
+    protected string Breed { get; private set; }
+
+   
+
+    public override string ToString()
+    {
+        return $"{GetType().Name} [{Name}, {Breed}, {Weight}, {LivingRegion}, {FoodEaten}]";
     }
 }
