@@ -67,9 +67,9 @@ public class Checks
         return 0;
     }
 
-    protected void PrintAnimal(Animal animal, string[] eats,string[] animals)
+    protected void PrintAnimal(Animal animal, string[] eats)
     {
-        string animalType = animals[0];
+      
             Console.WriteLine(animal.ProduceSound());
 
         switch (animal.GetType().Name)
@@ -77,37 +77,37 @@ public class Checks
             case "Owl":
                 if (DogFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
             case "Hen":
                 if (HensFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
             case "Mouse":
                 if (MiceFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
             case "Dog":
                 if (DogFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
             case "Cat":
                 if (CatFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
             case "Tiger":
                 if (DogFood(eats) == 0)
                 {
-                    Console.WriteLine($"{animalType} does not eat {eats[0]}!");
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
                 }
                 break;
         }
