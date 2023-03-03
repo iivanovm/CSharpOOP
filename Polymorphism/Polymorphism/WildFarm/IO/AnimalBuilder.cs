@@ -21,10 +21,9 @@ public class AnimalBuildr
         return isValid;
     }
 
-    protected int CatFood(string[] input, string[] anim)
+    protected int CatFood(string[] input)
     {
         string foodName = input[0];
-        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<CatEat>(foodName, out CatEat hensEat);
         if (isValid)
@@ -34,10 +33,9 @@ public class AnimalBuildr
         return 0;
     }
 
-    protected int DogFood(string[] input, string[] anim)
+    protected int DogFood(string[] input)
     {
         string foodName = input[0];
-        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<DogEat>(foodName, out DogEat hensEat);
         if (isValid)
@@ -47,10 +45,9 @@ public class AnimalBuildr
         return 0;
     }
 
-    protected int HensFood(string[] input, string[] anim)
+    protected int HensFood(string[] input)
     {
         string foodName = input[0];
-        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<HensEat>(foodName, out HensEat hensEat);
         if (isValid)
@@ -60,10 +57,9 @@ public class AnimalBuildr
         return 0;
     }
 
-    protected int MiceFood(string[] input, string[] anim)
+    protected int MiceFood(string[] input)
     {
         string foodName = input[0];
-        string animalT = anim[0];
         int foodQuantity = int.Parse(input[1]);
         bool isValid = Enum.TryParse<MouseEat>(foodName, out MouseEat hensEat);
         if (isValid)
@@ -76,81 +72,30 @@ public class AnimalBuildr
     public Animal CreateAnimal(string[] animalInput, string[] eats)
     {
         string animalType = animalInput[0];
-
         switch (animalType)
         {
             case "Owl":
-                animal = new Owl(Birds(animalInput).Name, Birds(animalInput).Weight, DogFood(eats, animalInput), Birds(animalInput).WingSize);
-                if (DogFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                animal = new Owl(Birds(animalInput).Name, Birds(animalInput).Weight, DogFood(eats), Birds(animalInput).WingSize);
+                PrintAnimal(animal, eats);
                 break;
             case "Hen":
-                animal = new Hen(Birds(animalInput).Name, Birds(animalInput).Weight, HensFood(eats, animalInput), Birds(animalInput).WingSize);
-                if (HensFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                PrintAnimal(animal, eats);
                 break;
             case "Mouse":
-                animal = new Mouse(Dogy(animalInput).Name, Dogy(animalInput).Weight, MiceFood(eats, animalInput), Dogy(animalInput).Living);
-                if (MiceFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                animal = new Mouse(Dogy(animalInput).Name, Dogy(animalInput).Weight, MiceFood(eats), Dogy(animalInput).Living);
+                PrintAnimal(animal, eats);
                 break;
             case "Dog":
-                animal = new Dog(Dogy(animalInput).Name, Dogy(animalInput).Weight, DogFood(eats, animalInput), Dogy(animalInput).Living);
-                if (DogFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                animal = new Dog(Dogy(animalInput).Name, Dogy(animalInput).Weight, DogFood(eats), Dogy(animalInput).Living);
+                PrintAnimal(animal, eats);
                 break;
             case "Cat":
-                animal = new Cat(Felines(animalInput).Name, Felines(animalInput).Weight, CatFood(eats, animalInput), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
-                if (CatFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                animal = new Cat(Felines(animalInput).Name, Felines(animalInput).Weight, CatFood(eats), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
+                PrintAnimal(animal, eats);
                 break;
             case "Tiger":
-                animal = new Tiger(Felines(animalInput).Name, Felines(animalInput).Weight, DogFood(eats, animalInput), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
-                if (DogFood(eats, animalInput) == 0)
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
-                }
-                else
-                {
-                    Console.WriteLine(animal.ProduceSound());
-                }
+                animal = new Tiger(Felines(animalInput).Name, Felines(animalInput).Weight, DogFood(eats), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
+                PrintAnimal(animal, eats);
                 break;
 
         }
@@ -186,12 +131,52 @@ public class AnimalBuildr
         return currentDogs;
     }
 
-    public void PrintAnimal(string[] animalInput, string[] eats)
+
+    protected void PrintAnimal(Animal animal, string[] eats)
     {
-
+        if (animal.GetType().Name != null)
+        {
+            Console.WriteLine(animal.ProduceSound());
+        }
+        switch (animal.GetType().Name)
+        {
+            case "Owl":
+                if (DogFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+            case "Hen":
+                if (HensFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+            case "Mouse":
+                if (MiceFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+            case "Dog":
+                if (DogFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+            case "Cat":
+                if (CatFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+            case "Tiger":
+                if (DogFood(eats) == 0)
+                {
+                    Console.WriteLine($"{animal.GetType().Name} does not eat {eats[0]}!");
+                }
+                break;
+        }
     }
-
-
-
 
 }

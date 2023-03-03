@@ -14,8 +14,6 @@ public abstract class Animal : IAnimal
         AnimalWplus = animalWplus;
     }
 
-
-
     protected string Name { get; private set; }
     protected double Weight { get; private set; }
     protected int FoodEaten {
@@ -28,7 +26,6 @@ public abstract class Animal : IAnimal
             foodEaten = value;
         }
     }
-
     public double AnimalWplus {
         get
         {
@@ -41,7 +38,6 @@ public abstract class Animal : IAnimal
             Weight += animalWplus;
         }
     }
-
     public abstract string ProduceSound();
 
 }
