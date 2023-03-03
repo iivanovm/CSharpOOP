@@ -27,7 +27,7 @@ public class Engine : AnimalBuildr, IEngine
             animals.Add(CreateAnimal(animal,eat));
         }
 
-        animals.ForEach(x=>Console.WriteLine($"{x.ProduceSound()} {Environment.NewLine}{x}"));
+       animals.ForEach(x=>Console.WriteLine(x));
     }
 
 

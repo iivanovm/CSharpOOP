@@ -21,7 +21,7 @@ public class AnimalBuildr
         return isValid;
     }
 
-    protected int CatFood(string[] input,string [] anim)
+    protected int CatFood(string[] input, string[] anim)
     {
         string foodName = input[0];
         string animalT = anim[0];
@@ -31,11 +31,10 @@ public class AnimalBuildr
         {
             return foodQuantity;
         }
-        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
-    protected int DogFood(string[] input,string[] anim)
+    protected int DogFood(string[] input, string[] anim)
     {
         string foodName = input[0];
         string animalT = anim[0];
@@ -45,7 +44,6 @@ public class AnimalBuildr
         {
             return foodQuantity;
         }
-        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
@@ -59,7 +57,6 @@ public class AnimalBuildr
         {
             return foodQuantity;
         }
-        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
@@ -73,7 +70,6 @@ public class AnimalBuildr
         {
             return foodQuantity;
         }
-        Console.WriteLine($"{animalT} does not eat {foodName}!");
         return 0;
     }
 
@@ -84,22 +80,77 @@ public class AnimalBuildr
         switch (animalType)
         {
             case "Owl":
-                animal = new Owl(Birds(animalInput).Name, Birds(animalInput).Weight, DogFood(eats,animalInput), Birds(animalInput).WingSize); 
+                animal = new Owl(Birds(animalInput).Name, Birds(animalInput).Weight, DogFood(eats, animalInput), Birds(animalInput).WingSize);
+                if (DogFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
             case "Hen":
                 animal = new Hen(Birds(animalInput).Name, Birds(animalInput).Weight, HensFood(eats, animalInput), Birds(animalInput).WingSize);
+                if (HensFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
             case "Mouse":
                 animal = new Mouse(Dogy(animalInput).Name, Dogy(animalInput).Weight, MiceFood(eats, animalInput), Dogy(animalInput).Living);
+                if (MiceFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
             case "Dog":
                 animal = new Dog(Dogy(animalInput).Name, Dogy(animalInput).Weight, DogFood(eats, animalInput), Dogy(animalInput).Living);
+                if (DogFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
             case "Cat":
-                animal = new Cat(Felines(animalInput).Name,Felines(animalInput).Weight,CatFood(eats, animalInput),Felines(animalInput).LivingRegion,Felines(animalInput).Breed);
+                animal = new Cat(Felines(animalInput).Name, Felines(animalInput).Weight, CatFood(eats, animalInput), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
+                if (CatFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
             case "Tiger":
                 animal = new Tiger(Felines(animalInput).Name, Felines(animalInput).Weight, DogFood(eats, animalInput), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
+                if (DogFood(eats, animalInput) == 0)
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                    Console.WriteLine($"{animalInput[0]} does not eat {eats[0]}!");
+                }
+                else
+                {
+                    Console.WriteLine(animal.ProduceSound());
+                }
                 break;
 
         }
@@ -108,31 +159,39 @@ public class AnimalBuildr
 
     public Birds Birds(string[] tokens)
     {
-        Birds currentBirds= new Birds();
-        currentBirds.Name= tokens[0];
-        currentBirds.Weight = double.Parse(tokens[1]);
-        currentBirds.WingSize = double.Parse(tokens[2]);
+        Birds currentBirds = new Birds();
+        currentBirds.Name = tokens[1];
+        currentBirds.Weight = double.Parse(tokens[2]);
+        currentBirds.WingSize = double.Parse(tokens[3]);
         return currentBirds;
     }
 
     public Felines Felines(string[] tokens)
     {
-        Felines currentFelines= new Felines();  
-        currentFelines.Name= tokens[1];
+        Felines currentFelines = new Felines();
+        currentFelines.Name = tokens[1];
         currentFelines.Weight = double.Parse(tokens[2]);
         currentFelines.LivingRegion = tokens[3];
-        currentFelines.Breed= tokens[4];
+        currentFelines.Breed = tokens[4];
         return currentFelines;
     }
 
     public Dogs Dogy(string[] tokens)
     {
-        Dogs currentDogs= new Dogs();   
-        currentDogs.Name= tokens[1];
+        Dogs currentDogs = new Dogs();
+        currentDogs.Name = tokens[1];
         currentDogs.Weight = double.Parse(tokens[2]);
         currentDogs.Living = tokens[3];
 
         return currentDogs;
     }
+
+    public void PrintAnimal(string[] animalInput, string[] eats)
+    {
+
+    }
+
+
+
 
 }
