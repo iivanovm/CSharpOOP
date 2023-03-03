@@ -9,15 +9,6 @@ public abstract class Vehicle : IVehicle
     private double fuelQuantity;
     private double consumptionPerKm;
     protected double airCon;
-    protected Vehicle(double fuelQuantity, double consumptionPerKm, double tankCapacity,double airCon)
-    {
-        FuelQuantity = fuelQuantity;
-        ConsumptionPerKm = consumptionPerKm;
-        TankCapacity = tankCapacity;
-        RefFuelQuantityLimit = 1;
-        AirCon=airCon;
-    }
-
 
 
     public double FuelQuantity
@@ -57,15 +48,26 @@ public abstract class Vehicle : IVehicle
             tankCapacity = value;
         }
     }
-    protected double AirCon {
-        get 
+    protected double AirCon
+    {
+        get
         {
             return airCon;
         }
-        private set 
-        { 
+        private set
+        {
             airCon = value;
         }
+    }
+
+
+    protected Vehicle(double fuelQuantity, double consumptionPerKm, double tankCapacity,double airCon)
+    {
+        FuelQuantity = fuelQuantity;
+        ConsumptionPerKm = consumptionPerKm;
+        TankCapacity = tankCapacity;
+        RefFuelQuantityLimit = 1;
+        AirCon=airCon;
     }
 
 
