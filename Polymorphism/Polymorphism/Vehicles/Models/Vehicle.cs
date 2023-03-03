@@ -4,6 +4,7 @@ namespace Vehicles.Models;
 
 public abstract class Vehicle : IVehicle
 {
+ 
 
     protected Vehicle(double fuelQuantity, double consumptionPerKm)
     {
@@ -30,8 +31,6 @@ public abstract class Vehicle : IVehicle
             FuelQuantity -= Distance * ConsumptionPerKm;
         }
     }
-
-
 
     public void Refuel(double Litters)
     {
