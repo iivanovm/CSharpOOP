@@ -7,7 +7,7 @@ public class Truck : Vehicle
     private const double FuelLimit = 0.95;
 
     public Truck(double fuelQuantity, double consumptionPerKm, double tankCapacity) 
-        : base(fuelQuantity, consumptionPerKm+AirConD, tankCapacity)
+        : base(fuelQuantity, consumptionPerKm, tankCapacity,AirConD)
     {
         base.RefFuelQuantityLimit = FuelLimit;
     }

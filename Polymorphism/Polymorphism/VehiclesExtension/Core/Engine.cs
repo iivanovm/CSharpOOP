@@ -23,7 +23,6 @@ namespace Vehicles.Core
 
         public void Start(IReader reader, IWriter writer)
         {
-
             try
             {
                 int vehicleNum = 3;
@@ -59,15 +58,7 @@ namespace Vehicles.Core
                             vehicles.Where(x => x.GetType().Name == VehicleName).FirstOrDefault().Refuel(quantity);
                             break;
                         case "DriveEmpty":
-                            vehicles.ForEach(v =>
-                            {
-                                if (v.GetType().Name == "Bus")
-                                {
-                                    Bus bus = v as Bus;
-                                    bus.DriveEmpty(quantity);
-                                }
-                            }
-                            );
+                            vehicles.Where(x => x.GetType().Name == VehicleName).FirstOrDefault().DriveEmpty(quantity);
                             break;
                     }
                 }

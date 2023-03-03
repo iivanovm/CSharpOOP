@@ -8,12 +8,14 @@ public abstract class Vehicle : IVehicle
     private double tankCapacity;
     private double fuelQuantity;
     private double consumptionPerKm;
-    protected Vehicle(double fuelQuantity, double consumptionPerKm, double tankCapacity)
+    protected double airCon;
+    protected Vehicle(double fuelQuantity, double consumptionPerKm, double tankCapacity,double airCon)
     {
         FuelQuantity = fuelQuantity;
         ConsumptionPerKm = consumptionPerKm;
         TankCapacity = tankCapacity;
         RefFuelQuantityLimit = 1;
+        AirCon=airCon;
     }
 
 
@@ -55,10 +57,31 @@ public abstract class Vehicle : IVehicle
             tankCapacity = value;
         }
     }
-
+    protected double AirCon {
+        get 
+        {
+            return airCon;
+        }
+        private set 
+        { 
+            airCon = value;
+        }
+    }
 
 
     public void Drive(double Distance)
+    {
+        if (FuelQuantity < (Distance * (ConsumptionPerKm+AirCon)))
+        {
+            Console.WriteLine($"{GetType().Name} needs refueling");
+        }
+        else
+        {
+            Console.WriteLine($"{GetType().Name} travelled {Distance} km");
+            FuelQuantity -= Distance * (ConsumptionPerKm+AirCon);
+        }
+    }
+    public void DriveEmpty(double Distance)
     {
         if (FuelQuantity < (Distance * ConsumptionPerKm))
         {
