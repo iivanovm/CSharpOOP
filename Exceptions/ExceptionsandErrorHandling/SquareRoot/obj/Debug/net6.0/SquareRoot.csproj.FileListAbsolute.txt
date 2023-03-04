@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.exe
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.deps.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.runtimeconfig.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\bin\Debug\net6.0\SquareRoot.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.AssemblyInfo.cs
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\refint\SquareRoot.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\SquareRoot.genruntimeconfig.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\SquareRoot\obj\Debug\net6.0\ref\SquareRoot.dll
