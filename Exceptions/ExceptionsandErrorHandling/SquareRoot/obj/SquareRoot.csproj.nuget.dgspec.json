@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj": {}
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj": {
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj",
+        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj",
         "projectName": "SquareRoot",
-        "projectPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\obj\\",
+        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\SquareRoot.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\SquareRoot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

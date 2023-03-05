@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj": {}
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj": {
+    "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj",
+        "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj",
         "projectName": "Number",
-        "projectPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\obj\\",
+        "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\Number.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Exceptions\\ExceptionsandErrorHandling\\Number\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

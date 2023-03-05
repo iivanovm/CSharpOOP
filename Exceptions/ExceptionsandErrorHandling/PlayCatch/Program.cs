@@ -2,7 +2,7 @@
     .Split(" ", StringSplitOptions.RemoveEmptyEntries)
     .Select(int.Parse).ToArray();
 int count = 0;
-while (count!=3)
+while (count<3)
 {
     try
     {
@@ -72,14 +72,18 @@ while (count!=3)
     catch (Exception ae)
     {
         Console.WriteLine($"{ae.Message}");
+        count++;
         continue;
     }
+    
 }
+Console.WriteLine(string.Join(", ", nums));
 
 
 bool IsInt(string input)
 {
-    return int.TryParse(input, out count);
+    int integer;
+    return int.TryParse(input, out integer);
 }
 
 bool IsInRange(int[] ints, int startIndex)
@@ -95,7 +99,10 @@ int[] Replace(int[] ints, string startIndex, string element)
 
 void Print(int[] ints, string startIndex, string endIndex)
 {
-    Console.WriteLine(string.Join(", ", ints));
+    int start=int.Parse(startIndex);
+    int end=int.Parse(endIndex)+1;
+    
+    Console.WriteLine(string.Join(", ", ints[start..end]));
 }
 
 void Show(int[] ints, string index)
