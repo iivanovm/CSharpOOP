@@ -7,7 +7,7 @@ namespace WildFarm.Core;
 
 public class AnimalBuildr : Checks
 {
-    Animal animal = null;
+    Animal animal;
     public Animal CreateAnimal(string[] animalInput, string[] eats)
     {
         string animalType = animalInput[0];
@@ -36,7 +36,6 @@ public class AnimalBuildr : Checks
                 animal = new Tiger(Felines(animalInput).Name, Felines(animalInput).Weight, DogFood(eats), Felines(animalInput).LivingRegion, Felines(animalInput).Breed);
                 PrintAnimal(animal, eats);
                 break;
-
         }
         return animal;
     }

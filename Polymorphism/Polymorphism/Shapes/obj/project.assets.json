@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\Shapes.csproj",
+      "projectUniqueName": "D:\\GitHub\\SoftUni\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\Shapes.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\obj\\",
+      "projectPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\Shapes.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SoftUni\\CSharpOOP\\Polymorphism\\Polymorphism\\Shapes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

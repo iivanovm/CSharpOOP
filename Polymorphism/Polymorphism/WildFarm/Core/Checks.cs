@@ -1,7 +1,5 @@
 ﻿namespace WildFarm.Core;
 using WildFarm.Enums;
-
-using WildFarm.Enums;
 using WildFarm.Models;
 using WildFarm.Models.AbstractCl;
 using WildFarm.Models.Struct;
@@ -69,7 +67,6 @@ public class Checks
 
     protected void PrintAnimal(Animal animal, string[] eats)
     {
-      
             Console.WriteLine(animal.ProduceSound());
 
         switch (animal.GetType().Name)

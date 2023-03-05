@@ -2,8 +2,6 @@
 
 public abstract class Bird : Animal
 {
-    private double animalEat;
-    private double weight;
 
     protected double WingSize { get; set; }
 
