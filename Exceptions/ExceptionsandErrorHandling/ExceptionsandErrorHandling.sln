@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRoot", "SquareRoot\Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number", "Number\Number.csproj", "{649A5EB6-FEDC-46C8-95F3-EAD7DC639737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{ACD01A97-45B7-4368-B785-7F41CEFECDC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{649A5EB6-FEDC-46C8-95F3-EAD7DC639737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{649A5EB6-FEDC-46C8-95F3-EAD7DC639737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{649A5EB6-FEDC-46C8-95F3-EAD7DC639737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD01A97-45B7-4368-B785-7F41CEFECDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD01A97-45B7-4368-B785-7F41CEFECDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD01A97-45B7-4368-B785-7F41CEFECDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD01A97-45B7-4368-B785-7F41CEFECDC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

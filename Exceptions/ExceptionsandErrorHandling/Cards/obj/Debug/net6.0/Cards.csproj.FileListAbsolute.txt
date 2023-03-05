@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\bin\Debug\net6.0\Cards.exe
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\bin\Debug\net6.0\Cards.deps.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\bin\Debug\net6.0\Cards.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\bin\Debug\net6.0\Cards.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\refint\Cards.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\Cards\obj\Debug\net6.0\ref\Cards.dll
