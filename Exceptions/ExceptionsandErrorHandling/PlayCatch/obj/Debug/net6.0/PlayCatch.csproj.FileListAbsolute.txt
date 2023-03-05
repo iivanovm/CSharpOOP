@@ -1,0 +1,15 @@
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\bin\Debug\net6.0\PlayCatch.exe
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\bin\Debug\net6.0\PlayCatch.deps.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\bin\Debug\net6.0\PlayCatch.runtimeconfig.json
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\bin\Debug\net6.0\PlayCatch.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\bin\Debug\net6.0\PlayCatch.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.AssemblyInfo.cs
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\refint\PlayCatch.dll
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.pdb
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\PlayCatch.genruntimeconfig.cache
+D:\GitHub\SoftUni\CSharpOOP\Exceptions\ExceptionsandErrorHandling\PlayCatch\obj\Debug\net6.0\ref\PlayCatch.dll
