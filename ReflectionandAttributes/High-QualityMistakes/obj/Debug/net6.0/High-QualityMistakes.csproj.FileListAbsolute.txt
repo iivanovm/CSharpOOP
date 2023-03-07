@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\bin\Debug\net6.0\High-QualityMistakes.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\bin\Debug\net6.0\High-QualityMistakes.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\bin\Debug\net6.0\High-QualityMistakes.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\bin\Debug\net6.0\High-QualityMistakes.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\bin\Debug\net6.0\High-QualityMistakes.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\refint\High-QualityMistakes.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\High-QualityMistakes.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\High-QualityMistakes\obj\Debug\net6.0\ref\High-QualityMistakes.dll
