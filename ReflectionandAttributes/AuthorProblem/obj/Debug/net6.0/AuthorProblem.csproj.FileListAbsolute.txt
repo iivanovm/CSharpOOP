@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\bin\Debug\net6.0\AuthorProblem.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\refint\AuthorProblem.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\AuthorProblem.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\AuthorProblem\obj\Debug\net6.0\ref\AuthorProblem.dll

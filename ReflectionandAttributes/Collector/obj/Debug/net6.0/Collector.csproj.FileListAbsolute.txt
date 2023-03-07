@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\bin\Debug\net6.0\Collector.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\bin\Debug\net6.0\Collector.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\bin\Debug\net6.0\Collector.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\bin\Debug\net6.0\Collector.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\bin\Debug\net6.0\Collector.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\refint\Collector.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\Collector.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\Collector\obj\Debug\net6.0\ref\Collector.dll
