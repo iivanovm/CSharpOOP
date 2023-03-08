@@ -28,6 +28,13 @@ public class DatabaseTests
     }
 
     [Test]
+    public void CountTest()
+    {
+        int expectedCount = 16;
+        Assert.AreEqual(expectedCount, database.Count);
+    }
+
+    [Test]
     public void CheckCountElements()
     {
         Assert.AreEqual(data.Length, database.Count);
