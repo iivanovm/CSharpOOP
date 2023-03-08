@@ -1,0 +1,12 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\bin\Debug\net6.0\Database.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\bin\Debug\net6.0\Database.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\bin\Debug\net6.0\Database.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\refint\Database.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\Database.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\UnitTesting\Database\obj\Debug\net6.0\ref\Database.dll
