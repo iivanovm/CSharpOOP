@@ -39,7 +39,7 @@ public class Engine : IEngine
             {
                 animal = CreateAnimal(command);
 
-                IFood food = CreateFood(command);
+                IFood food = CreateFood();
 
                 writer.WriteLine(animal.ProduceSound());
 
@@ -74,14 +74,14 @@ public class Engine : IEngine
         return animal;
     }
 
-    private IFood CreateFood(string command)
+    private IFood CreateFood()
     {
 
-        string[] foodTokens =command
+        string[] foodTokens =reader.ReadLine()
             .Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
         string foodType = foodTokens[0];
-        int foodQuantity = int.Parse(foodTokens[6]);
+        int foodQuantity = int.Parse(foodTokens[1]);
 
         IFood food = foodFactory.CreateFood(foodType, foodQuantity);
 

@@ -1,5 +1,5 @@
-Tiger Rex 167.7 Asia Bengal
-Vegetable 1
-Dog Tommy 500 Street 
-Vegetable 150
+Mouse Jerry 0.5 Anywhere
+Fruit 1000
+Owl Tom 2.5 30
+Meat 5
 End

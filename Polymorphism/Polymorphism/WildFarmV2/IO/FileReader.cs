@@ -6,30 +6,46 @@ namespace WildFarm.IO;
 
 public class FileReader : IReader
 {
+    private string fileName;
 
+    Queue<string> command=new Queue<string>();
 
-    private string fileName ;
     public FileReader(string fileName)
     {
         this.fileName = fileName;
+        textProcess(fileName);
     }
+
     public string ReadLine()
     {
-        string result=string.Empty;
-        if (File.Exists(fileName))
+        string line="";    
+        while(command.Any())
         {
-            string[] data = File.ReadAllLines(fileName);
-            result = string.Join(" ", data);
+           line=command.Dequeue();
+            
+            break;
         }
-        //using (StreamReader sr = File.OpenText(fileName))
-        //{
-        //    string s = String.Empty;
-        //    while ((s = sr.ReadLine()) != null)
-        //    {
-        //        result = s;
-        //    }
-        //}
-        return result;
+        
+        return line;
+    }
+
+
+    void textProcess(string fileName)
+    {
+        string lineOfText;
+        var filestream = new System.IO.FileStream(fileName,
+                                          System.IO.FileMode.Open,
+                                          System.IO.FileAccess.Read,
+                                          System.IO.FileShare.ReadWrite);
+        var file = new System.IO.StreamReader(filestream, System.Text.Encoding.UTF8, true, 128);
+        Queue<string> rawData = new Queue<string>();
+        while ((lineOfText = file.ReadLine()) != null)
+        {
+           
+                command.Enqueue(lineOfText);
+            
+        }
+        
     }
 
 
