@@ -2,12 +2,6 @@ Squeak
 Hoot Hoot
 Mouse [Jerry, 100.5, Anywhere, 1000]
 Owl [Tom, 30, 3.75, 5]
-ROAR!!!
-Tiger does not eat Vegetable!
-Woof!
-Dog does not eat Vegetable!
-Tiger [Rex, Bengal, 167.7, Asia, 0]
-Dog [Tommy, 500, Street, 0]
 Squeak
 Hoot Hoot
 Mouse [Jerry, 100.5, Anywhere, 1000]

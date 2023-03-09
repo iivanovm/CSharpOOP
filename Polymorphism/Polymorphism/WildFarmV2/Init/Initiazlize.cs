@@ -8,6 +8,7 @@ using WildFarmV2.IO;
 
 internal class Initiazlize : IInitialize
 {
+    string msgInput = "We need  exact path and filename for  file.\nFor Example c:\\data\\input.txt. If not put direcotry set DefaultSolutionDir \nEnter your path or press enter for default...:";
     public void Setup()
     {
         Choice();
@@ -16,10 +17,10 @@ internal class Initiazlize : IInitialize
     public Initiazlize()
     {
         string fileName;
-        string outFile ;
-        IReader reader ;
+        string outFile;
+        IReader reader;
         IWriter writer;
-      
+
     }
 
     private void Choice()
@@ -34,8 +35,7 @@ internal class Initiazlize : IInitialize
         switch (option)
         {
             case 1:
-  
-                IReader reader=new ConsoleReader();
+                IReader reader = new ConsoleReader();
                 IWriter writer = new ConsoleWriter();
                 IFoodFactory food = new FoodFactory();
                 IAnimalFactory animal = new AnimalFactory();
@@ -43,16 +43,36 @@ internal class Initiazlize : IInitialize
                 engine.Run();
                 break;
             case 2:
-                string fileName = @"..\..\..\input.txt";
-                 reader = new FileReader(fileName);
-                 writer = new ConsoleWriter();
-                 food = new FoodFactory();
-                 animal = new AnimalFactory();
-                 engine = new Engine(reader, writer, animal, food);
+                string fileName;
+                Console.WriteLine("Input " + msgInput);
+                fileName = Console.ReadLine();
+                if (fileName == string.Empty)
+                {
+                    fileName = @"..\..\..\input.txt";
+                }
+                else
+                {
+                    fileName = fileName.Replace(@"\", @"\\");
+                }
+                reader = new FileReader(fileName);
+                writer = new ConsoleWriter();
+                food = new FoodFactory();
+                animal = new AnimalFactory();
+                engine = new Engine(reader, writer, animal, food);
                 engine.Run();
                 break;
             case 3:
-                string outFile = @"..\..\..\Output.txt";
+                string outFile;
+                Console.WriteLine("OutFile " + msgInput);
+                outFile = Console.ReadLine();
+                if (outFile == string.Empty)
+                {
+                    outFile = @"..\..\..\Output.txt";
+                }
+                else
+                {
+                    outFile = outFile.Replace(@"\", @"\\");
+                }
                 reader = new ConsoleReader();
                 writer = new FileWrite(outFile);
                 food = new FoodFactory();
@@ -61,12 +81,32 @@ internal class Initiazlize : IInitialize
                 engine.Run();
                 break;
             case 4:
-                 fileName = @"..\..\..\input.txt";
-                 outFile = @"..\..\..\Output.txt";
-                 reader = new FileReader(fileName);
-                 writer = new FileWrite(outFile);
-                 food = new FoodFactory();
-                 animal = new AnimalFactory();
+                Console.WriteLine("Input " + msgInput);
+                fileName = Console.ReadLine();
+                if (fileName == string.Empty)
+                {
+                    fileName = @"..\..\..\input.txt";
+                }
+                else
+                {
+                    fileName = fileName.Replace(@"\", @"\\");
+                }
+                Console.WriteLine("OutFile " + msgInput);
+                outFile = Console.ReadLine();
+                if (outFile == string.Empty)
+                {
+                    outFile = @"..\..\..\Output.txt";
+                }
+                else
+                {
+                    outFile = outFile.Replace(@"\", @"\\");
+                }
+                fileName = @"..\..\..\input.txt";
+                outFile = @"..\..\..\Output.txt";
+                reader = new FileReader(fileName);
+                writer = new FileWrite(outFile);
+                food = new FoodFactory();
+                animal = new AnimalFactory();
                 engine = new Engine(reader, writer, animal, food);
                 engine.Run();
                 break;
