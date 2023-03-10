@@ -5,6 +5,7 @@ using WildFarm.Core.interfaces;
 using WildFarm.Factories.interfaces;
 using WildFarm.Core;
 using WildFarmV2.IO;
+using WildFarmV2.Init.@interface;
 
 internal class Initiazlize : IInitialize
 {
@@ -25,94 +26,91 @@ internal class Initiazlize : IInitialize
 
     private void Choice()
     {
-        Console.WriteLine("Chose your option");
-        Console.WriteLine("1. ConsoleReader; ConsoleWriter");
-        Console.WriteLine("2. FileReader; ConsoleWriter");
-        Console.WriteLine("3. ConsoleReader; FileWriter");
-        Console.WriteLine("4. FileReader; FileWriter");
-        Console.WriteLine("Plaese enter your choice:");
-        int option = int.Parse(Console.ReadLine());
-        switch (option)
+        List<string> MenuItem = new List<string>() { "1. ConsoleReader; ConsoleWriter", "2. FileReader; ConsoleWriter", "3. ConsoleReader; FileWriter", "4. FileReader; FileWriter","5. Exit" };
+        Console.CursorVisible = false;
+        while (true)
         {
-            case 1:
-                IReader reader = new ConsoleReader();
-                IWriter writer = new ConsoleWriter();
-                IFoodFactory food = new FoodFactory();
-                IAnimalFactory animal = new AnimalFactory();
-                IEngine engine = new Engine(reader, writer, animal, food);
-                engine.Run();
-                break;
-            case 2:
-                string fileName;
-                Console.WriteLine("Input " + msgInput);
-                fileName = Console.ReadLine();
-                if (fileName == string.Empty)
-                {
+            switch (MenuInit.Menu(MenuItem))
+            {
+                case "1. ConsoleReader; ConsoleWriter":
+                    IReader reader = new ConsoleReader();
+                    IWriter writer = new ConsoleWriter();
+                    IFoodFactory food = new FoodFactory();
+                    IAnimalFactory animal = new AnimalFactory();
+                    IEngine engine = new Engine(reader, writer, animal, food);
+                    engine.Run();
+                    break;
+                case "2. FileReader; ConsoleWriter":
+                    string fileName;
+                    Console.WriteLine("Input " + msgInput);
+                    fileName = Console.ReadLine();
+                    if (fileName == string.Empty)
+                    {
+                        fileName = @"..\..\..\input.txt";
+                    }
+                    else
+                    {
+                        fileName = fileName.Replace(@"\", @"\\");
+                    }
+                    reader = new FileReader(fileName);
+                    writer = new ConsoleWriter();
+                    food = new FoodFactory();
+                    animal = new AnimalFactory();
+                    engine = new Engine(reader, writer, animal, food);
+                    engine.Run();
+                    break;
+                case "3. ConsoleReader; FileWriter":
+                    string outFile;
+                    Console.WriteLine("OutFile " + msgInput);
+                    outFile = Console.ReadLine();
+                    if (outFile == string.Empty)
+                    {
+                        outFile = @"..\..\..\Output.txt";
+                    }
+                    else
+                    {
+                        outFile = outFile.Replace(@"\", @"\\");
+                    }
+                    reader = new ConsoleReader();
+                    writer = new FileWrite(outFile);
+                    food = new FoodFactory();
+                    animal = new AnimalFactory();
+                    engine = new Engine(reader, writer, animal, food);
+                    engine.Run();
+                    break;
+                case "4. FileReader; FileWriter":
+                    Console.WriteLine("Input " + msgInput);
+                    fileName = Console.ReadLine();
+                    if (fileName == string.Empty)
+                    {
+                        fileName = @"..\..\..\input.txt";
+                    }
+                    else
+                    {
+                        fileName = fileName.Replace(@"\", @"\\");
+                    }
+                    Console.WriteLine("OutFile " + msgInput);
+                    outFile = Console.ReadLine();
+                    if (outFile == string.Empty)
+                    {
+                        outFile = @"..\..\..\Output.txt";
+                    }
+                    else
+                    {
+                        outFile = outFile.Replace(@"\", @"\\");
+                    }
                     fileName = @"..\..\..\input.txt";
-                }
-                else
-                {
-                    fileName = fileName.Replace(@"\", @"\\");
-                }
-                reader = new FileReader(fileName);
-                writer = new ConsoleWriter();
-                food = new FoodFactory();
-                animal = new AnimalFactory();
-                engine = new Engine(reader, writer, animal, food);
-                engine.Run();
-                break;
-            case 3:
-                string outFile;
-                Console.WriteLine("OutFile " + msgInput);
-                outFile = Console.ReadLine();
-                if (outFile == string.Empty)
-                {
                     outFile = @"..\..\..\Output.txt";
-                }
-                else
-                {
-                    outFile = outFile.Replace(@"\", @"\\");
-                }
-                reader = new ConsoleReader();
-                writer = new FileWrite(outFile);
-                food = new FoodFactory();
-                animal = new AnimalFactory();
-                engine = new Engine(reader, writer, animal, food);
-                engine.Run();
-                break;
-            case 4:
-                Console.WriteLine("Input " + msgInput);
-                fileName = Console.ReadLine();
-                if (fileName == string.Empty)
-                {
-                    fileName = @"..\..\..\input.txt";
-                }
-                else
-                {
-                    fileName = fileName.Replace(@"\", @"\\");
-                }
-                Console.WriteLine("OutFile " + msgInput);
-                outFile = Console.ReadLine();
-                if (outFile == string.Empty)
-                {
-                    outFile = @"..\..\..\Output.txt";
-                }
-                else
-                {
-                    outFile = outFile.Replace(@"\", @"\\");
-                }
-                fileName = @"..\..\..\input.txt";
-                outFile = @"..\..\..\Output.txt";
-                reader = new FileReader(fileName);
-                writer = new FileWrite(outFile);
-                food = new FoodFactory();
-                animal = new AnimalFactory();
-                engine = new Engine(reader, writer, animal, food);
-                engine.Run();
-                break;
-            default:
-                Console.WriteLine("Incorrect choice");
-                break;
+                    reader = new FileReader(fileName);
+                    writer = new FileWrite(outFile);
+                    food = new FoodFactory();
+                    animal = new AnimalFactory();
+                    engine = new Engine(reader, writer, animal, food);
+                    engine.Run();
+                    break;
+                case "5. Exit":Environment.Exit(0);
+                    break;
+            }
         }
 
     }

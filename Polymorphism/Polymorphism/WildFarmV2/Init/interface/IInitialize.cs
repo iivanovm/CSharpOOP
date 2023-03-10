@@ -1,4 +1,4 @@
-﻿namespace WildFarm.Init
+﻿namespace WildFarmV2.Init.@interface
 {
     public interface IInitialize
     {
