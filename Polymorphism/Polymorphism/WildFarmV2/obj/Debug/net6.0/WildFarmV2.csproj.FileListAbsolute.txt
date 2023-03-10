@@ -13,3 +13,6 @@ F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildF
 F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\obj\Debug\net6.0\WildFarmV2.pdb
 F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\obj\Debug\net6.0\WildFarmV2.genruntimeconfig.cache
 F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\obj\Debug\net6.0\ref\WildFarmV2.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Polymorphism\Polymorphism\WildFarmV2\obj\Debug\net6.0\WildFarmV2.csproj.CopyComplete

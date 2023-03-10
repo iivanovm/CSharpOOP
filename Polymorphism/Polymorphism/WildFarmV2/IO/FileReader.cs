@@ -41,7 +41,10 @@ public class FileReader : IReader
         Queue<string> rawData = new Queue<string>();
         while ((lineOfText = file.ReadLine()) != null)
         {
-           command.Enqueue(lineOfText);
+           //using(StreamWriter wr = new StreamWriter(fileName))
+            //{
+                command.Enqueue(lineOfText);
+           // }
         }
         
     }

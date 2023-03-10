@@ -1,10 +1,10 @@
-﻿using System.Reflection.PortableExecutable;
+﻿namespace WildFarm.Core;
+using System.Reflection.PortableExecutable;
 using WildFarm.Core.interfaces;
 using WildFarm.Factories.interfaces;
 using WildFarm.IO.interfaces;
 using WildFarm.Models.interfaces;
 
-namespace WildFarm.Core;
 
 public class Engine : IEngine
 {
@@ -13,11 +13,13 @@ public class Engine : IEngine
     private IFoodFactory foodFactory;
     private IAnimalFactory animalFactory;
     private readonly ICollection<IAnimal> animals;
+    private int type;
     public Engine(
           IReader reader,
           IWriter writer,
           IAnimalFactory animalFactory,
-          IFoodFactory foodFactory)
+          IFoodFactory foodFactory,
+          int type=1 )
     {
         this.reader = reader;
         this.writer = writer;
@@ -26,6 +28,8 @@ public class Engine : IEngine
         this.foodFactory = foodFactory;
 
         animals = new List<IAnimal>();
+
+        this.type = type;
     }
 
     public void Run()
@@ -57,10 +61,17 @@ public class Engine : IEngine
 
             animals.Add(animal);
         }
-
-        foreach (IAnimal animal in animals)
+        if (type == 5)
         {
-            writer.WriteLine(animal.ToString());
+            writer.WriteToJson(animals);
+        }
+        else
+        {
+
+            foreach (IAnimal animal in animals)
+            {
+                writer.WriteLine(animal.ToString());
+            }
         }
     }
 

@@ -1,11 +1,14 @@
-﻿using WildFarm.IO.interfaces;
+﻿using Newtonsoft.Json;
+using WildFarm.IO.interfaces;
+using WildFarm.Models.interfaces;
 
-namespace WildFarmV2.IO;
+namespace WildFarm.IO;
 
-public class FileWrite:IWriter
+public class FileWrite : IWriter
 {
-    private string fileName;
 
+    private string fileName;
+    
 
     public FileWrite(string fileName)
     {
@@ -14,14 +17,22 @@ public class FileWrite:IWriter
 
     public void Write(string line)
     {
-
+        
     }
 
     public void WriteLine(string line)
     {
+        using (StreamWriter wr= new StreamWriter(fileName,true)) 
+        { 
+            wr.WriteLine(line); 
+        }
+    }
+
+    public void WriteToJson(ICollection<IAnimal> animals)
+    {
         using (StreamWriter wr = new StreamWriter(fileName, true))
         {
-            wr.WriteLine(line);
+            wr.Write(JsonConvert.SerializeObject(animals,Formatting.Indented));
         }
     }
 }

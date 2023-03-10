@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mcSQ7P5wlrCn1itDej+ByN051LZQ/vPKrtIucxKcR6JrCzkLcm8sDxKHxuELlw7na8rP1L0vWWo2dPLyvNNj0g==",
+  "dgSpecHash": "ocwAtn1GGFC/s3UGdWpGMI7+RpnMUYsr/ZIbslUGcztfNicXpB7k2cFoKZLi2FSdDRHboOKpxXpbjo3AtF2ocw==",
   "success": true,
   "projectFilePath": "F:\\GitHubRepo\\LastChngbackup\\CSharpOOP\\CSharpOOP\\Polymorphism\\Polymorphism\\WildFarmV2\\WildFarmV2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

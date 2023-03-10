@@ -4,7 +4,6 @@ using WildFarm.IO.interfaces;
 using WildFarm.Core.interfaces;
 using WildFarm.Factories.interfaces;
 using WildFarm.Core;
-using WildFarmV2.IO;
 using WildFarmV2.Init.@interface;
 
 internal class Initiazlize : IInitialize
@@ -19,14 +18,21 @@ internal class Initiazlize : IInitialize
     {
         string fileName;
         string outFile;
+        string outFileJ;
         IReader reader;
         IWriter writer;
-
     }
 
     private void Choice()
     {
-        List<string> MenuItem = new List<string>() { "1. ConsoleReader; ConsoleWriter", "2. FileReader; ConsoleWriter", "3. ConsoleReader; FileWriter", "4. FileReader; FileWriter","5. Exit" };
+        List<string> MenuItem = new List<string>()
+        { "1. ConsoleReader; ConsoleWriter",
+            "2. FileReader; ConsoleWriter",
+            "3. ConsoleReader; FileWriter",
+            "4. FileReader; FileWriter",
+            "5. FileReader; FileWriter export to Jsons",
+            "6. Exit"
+        };
         Console.CursorVisible = false;
         while (true)
         {
@@ -46,7 +52,7 @@ internal class Initiazlize : IInitialize
                     fileName = Console.ReadLine();
                     if (fileName == string.Empty)
                     {
-                        fileName = @"..\..\..\input.txt";
+                        fileName = @"..\..\..\DataStore\input.txt";
                     }
                     else
                     {
@@ -65,7 +71,7 @@ internal class Initiazlize : IInitialize
                     outFile = Console.ReadLine();
                     if (outFile == string.Empty)
                     {
-                        outFile = @"..\..\..\Output.txt";
+                        outFile = @"..\..\..\DataStore\Output.txt";
                     }
                     else
                     {
@@ -83,7 +89,7 @@ internal class Initiazlize : IInitialize
                     fileName = Console.ReadLine();
                     if (fileName == string.Empty)
                     {
-                        fileName = @"..\..\..\input.txt";
+                        fileName = @"..\..\..\DataStore\input.txt";
                     }
                     else
                     {
@@ -93,14 +99,14 @@ internal class Initiazlize : IInitialize
                     outFile = Console.ReadLine();
                     if (outFile == string.Empty)
                     {
-                        outFile = @"..\..\..\Output.txt";
+                        outFile = @"..\..\..\DataStore\Output.txt";
                     }
                     else
                     {
                         outFile = outFile.Replace(@"\", @"\\");
                     }
-                    fileName = @"..\..\..\input.txt";
-                    outFile = @"..\..\..\Output.txt";
+                    fileName = @"..\..\..\DataStore\input.txt";
+                    outFile = @"..\..\..\DataStore\Output.txt";
                     reader = new FileReader(fileName);
                     writer = new FileWrite(outFile);
                     food = new FoodFactory();
@@ -108,7 +114,38 @@ internal class Initiazlize : IInitialize
                     engine = new Engine(reader, writer, animal, food);
                     engine.Run();
                     break;
-                case "5. Exit":Environment.Exit(0);
+                case "5. FileReader; FileWriter export to Jsons":
+                    Console.WriteLine("Input " + msgInput);
+                    fileName = Console.ReadLine();
+                    if (fileName == string.Empty)
+                    {
+                        fileName = @"..\..\..\DataStore\input.txt";
+                    }
+                    else
+                    {
+                        fileName = fileName.Replace(@"\", @"\\");
+                    }
+                    Console.WriteLine("OutFile " + msgInput);
+                    string outFileJ = Console.ReadLine();
+                    if (outFileJ == string.Empty)
+                    {
+                        outFileJ = @"..\..\..\DataStore\OutputJ.txt";
+                    }
+                    else
+                    {
+                        outFileJ = outFileJ.Replace(@"\", @"\\");
+                    }
+                    fileName = @"..\..\..\DataStore\input.txt";
+                    outFileJ = @"..\..\..\DataStore\OutputJ.txt";
+                    reader = new FileReader(fileName);
+                    writer = new FileWrite(outFileJ);
+                    food = new FoodFactory();
+                    animal = new AnimalFactory();
+                    engine = new Engine(reader, writer, animal, food, 5);
+                    engine.Run();
+                    break;
+                case "6. Exit":
+                    Environment.Exit(0);
                     break;
             }
         }
