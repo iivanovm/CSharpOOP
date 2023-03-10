@@ -1,6 +1,6 @@
-﻿using WildFarm.Models.interfaces;
+﻿using WildFarmV2.Models.interfaces;
 
-namespace WildFarm.Models;
+namespace WildFarmV2.Models;
 
 public abstract class Animal : IAnimal
 {

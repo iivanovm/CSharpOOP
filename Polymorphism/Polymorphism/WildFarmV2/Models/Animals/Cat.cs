@@ -1,6 +1,6 @@
-﻿using WildFarm.Models.Foods;
+﻿using WildFarmV2.Models.Foods;
 
-namespace WildFarm.Models.Animals;
+namespace WildFarmV2.Models.Animals;
 
 public class Cat : Feline
 {

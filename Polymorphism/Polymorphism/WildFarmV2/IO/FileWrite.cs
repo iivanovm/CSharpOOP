@@ -1,8 +1,8 @@
 ﻿using Newtonsoft.Json;
-using WildFarm.IO.interfaces;
-using WildFarm.Models.interfaces;
+using WildFarmV2.IO.interfaces;
+using WildFarmV2.Models.interfaces;
 
-namespace WildFarm.IO;
+namespace WildFarmV2.IO;
 
 public class FileWrite : IWriter
 {

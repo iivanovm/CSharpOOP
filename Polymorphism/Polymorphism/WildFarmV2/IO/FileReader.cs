@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using WildFarm.IO.interfaces;
+using WildFarmV2.IO.interfaces;
 
-namespace WildFarm.IO;
+namespace WildFarmV2.IO;
 
 public class FileReader : IReader
 {

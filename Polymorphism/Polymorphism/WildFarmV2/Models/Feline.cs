@@ -1,5 +1,5 @@
-﻿namespace WildFarm.Models;
-using WildFarm.Models.interfaces;
+﻿namespace WildFarmV2.Models;
+using WildFarmV2.Models.interfaces;
 
 
 

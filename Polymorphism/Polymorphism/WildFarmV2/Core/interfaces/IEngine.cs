@@ -1,6 +1,6 @@
-﻿using WildFarm.IO.interfaces;
+﻿using WildFarmV2.IO.interfaces;
 
-namespace WildFarm.Core.interfaces;
+namespace WildFarmV2.Core.interfaces;
 
 public interface IEngine
 {

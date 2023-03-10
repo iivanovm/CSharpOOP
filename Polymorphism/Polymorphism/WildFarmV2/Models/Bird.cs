@@ -1,6 +1,6 @@
-﻿using WildFarm.Models.interfaces;
-
-namespace WildFarm.Models;
+﻿using WildFarmV2.Models.interfaces;
+    
+namespace WildFarmV2.Models;
 
 public abstract class Bird : Animal, IBird
 {

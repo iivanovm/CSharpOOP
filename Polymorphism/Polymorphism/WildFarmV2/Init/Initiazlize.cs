@@ -1,10 +1,13 @@
-﻿namespace WildFarm.Init;
-using WildFarm.IO;
-using WildFarm.IO.interfaces;
-using WildFarm.Core.interfaces;
-using WildFarm.Factories.interfaces;
-using WildFarm.Core;
+﻿namespace WildFarmV2.Init;
+using System;
+using WildFarmV2.IO;
+using WildFarmV2.IO.interfaces;
+using WildFarmV2.Core.interfaces;
+using WildFarmV2.Factories.interfaces;
+using WildFarmV2.Core;
 using WildFarmV2.Init.@interface;
+using WildFarmV2;
+using WildFarm.IO;
 
 internal class Initiazlize : IInitialize
 {
@@ -40,7 +43,7 @@ internal class Initiazlize : IInitialize
     private void Choice()
     {
         List<string> MenuItem = new List<string>()
-        { "1. ConsoleReader; ConsoleWriter",
+        {  "1. ConsoleReader; ConsoleWriter",
             "2. FileReader; ConsoleWriter",
             "3. ConsoleReader; FileWriter",
             "4. FileReader; FileWriter",

@@ -1,4 +1,4 @@
-﻿namespace WildFarm.Models.interfaces;
+﻿namespace WildFarmV2.Models.interfaces;
 
 public interface IFood
 {

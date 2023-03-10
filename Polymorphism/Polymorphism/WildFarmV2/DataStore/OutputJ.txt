@@ -70,4 +70,28 @@ Dog does not eat Vegetable!
     "AnimalWeight": 500.0,
     "AnimalFoodEaten": 0
   }
+]ROAR!!!
+Tiger does not eat Vegetable!
+Woof!
+Dog does not eat Vegetable!
+[
+  {
+    "PreferredFoods": [
+      "WildFarmV2.Models.Foods.Meat, WildFarmV2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    "Breed": "Bengal",
+    "LivinigRegion": "Asia",
+    "AnimalName": "Rex",
+    "AnimalWeight": 167.7,
+    "AnimalFoodEaten": 0
+  },
+  {
+    "PreferredFoods": [
+      "WildFarmV2.Models.Foods.Meat, WildFarmV2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    ],
+    "LivinigRegion": "Street",
+    "AnimalName": "Tommy",
+    "AnimalWeight": 500.0,
+    "AnimalFoodEaten": 0
+  }
 ]
