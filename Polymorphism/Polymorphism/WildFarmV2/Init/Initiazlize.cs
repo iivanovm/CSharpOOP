@@ -1,4 +1,4 @@
-﻿namespace WildFarmV2.Init;
+﻿namespace WildFarmV2 .Init;
 using System;
 using WildFarmV2.IO;
 using WildFarmV2.IO.interfaces;

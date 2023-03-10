@@ -32,7 +32,7 @@ public class FileWrite : IWriter
     {
         using (StreamWriter wr = new StreamWriter(fileName, true))
         {
-            wr.Write(JsonConvert.SerializeObject(animals,Formatting.Indented));
+            wr.Write(JsonConvert.SerializeObject(animals, Formatting.Indented));
         }
     }
 }
