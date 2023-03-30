@@ -1,0 +1,14 @@
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+F:\GitHubRepo\LastChngbackup\TryExam\ChristmasPastryShop\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache
