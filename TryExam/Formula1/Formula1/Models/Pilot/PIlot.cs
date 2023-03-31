@@ -9,58 +9,85 @@ namespace Formula1.Models.Pilot
     {
         private string fullName;
         private bool canRace;
-        private IFormulaOneCar car;
         private int numberOfWins;
-        private List<IFormulaOneCar> cars;
-
+        IFormulaOneCar car;
 
         public Pilot(string fullName)
         {
             FullName = fullName;
-            cars = new List<IFormulaOneCar>();
+            canRace = false;
+            NumberOfWins = 0;
         }
-
 
         public string FullName
         {
-            get => fullName;
+            get
+            {
+                return fullName;
+            }
             private set
             {
-                if (string.IsNullOrWhiteSpace(fullName) || value.Length < 5)
+                if (string.IsNullOrWhiteSpace(value) || value.Length < 5)
                 {
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidPilot, value));
+                    throw new ArgumentException($"Invalid pilot name: {value}.");
                 }
                 fullName = value;
             }
         }
-        public bool CanRace
-        {
-            get; private set;
-        }
+
         public IFormulaOneCar Car
         {
-            get => car;
+            get
+            {
+                return car;
+            }
             private set
             {
-                if (car == null)
+                if (value == null)
                 {
-                    throw new NullReferenceException(ExceptionMessages.InvalidCarForPilot);
+                    throw new NullReferenceException("Pilot car can not be null.");
                 }
                 car = value;
             }
         }
+
         public int NumberOfWins
         {
-            get => numberOfWins;
+            get
+            {
+                return numberOfWins;
+            }
             private set
             {
                 numberOfWins = value;
             }
         }
+        public bool CanRace
+        {
+            get
+            {
+                return canRace;
+            }
+            private set
+            {
+                canRace = value;
+            }
+        }
 
+        public void AddCar(IFormulaOneCar car)
+        {
+            Car = car;
+            CanRace = true;
+        }
 
-        public void AddCar(IFormulaOneCar car) => cars.Add(car);
-        public void WinRace()=>NumberOfWins++;
-        public override string ToString() => $"Pilot {FullName} has {numberOfWins} wins.";
+        public void WinRace()
+        {
+            NumberOfWins++;
+        }
+
+        public override string ToString()
+        {
+            return $"Pilot {FullName} has {NumberOfWins} wins.";
+        }
     }
 }

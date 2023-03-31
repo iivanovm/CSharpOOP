@@ -57,7 +57,7 @@ namespace Formula1.Models.FormulaOneCar
         }
 
 
-        public double RaceScoreCalculator(int laps) => (engineDisplacement / horsepower * laps);
+        public double RaceScoreCalculator(int laps) => engineDisplacement / horsepower * laps;
         
     }
 }
