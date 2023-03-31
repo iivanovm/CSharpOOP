@@ -1,0 +1,14 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

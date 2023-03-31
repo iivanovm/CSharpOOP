@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\bin\Debug\net6.0\Formula1.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\bin\Debug\net6.0\Formula1.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\bin\Debug\net6.0\Formula1.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\bin\Debug\net6.0\Formula1.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\bin\Debug\net6.0\Formula1.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\refint\Formula1.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\Formula1.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\Formula1\Formula1\obj\Debug\net6.0\ref\Formula1.dll
