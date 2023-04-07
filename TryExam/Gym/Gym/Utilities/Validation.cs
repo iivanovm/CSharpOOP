@@ -20,27 +20,27 @@ namespace Gym.Utilities
             return childClassNames;
         }
 
-        public static Type CreateClass(string className)
+        public static object CreateInstanceFromString(string className, params object?[]? param)
         {
-
-            AssemblyName assemblyName = new AssemblyName("DynamicAssembly");
-            AssemblyBuilder assemblyBuilder = AssemblyBuilder.DefineDynamicAssembly(assemblyName, AssemblyBuilderAccess.Run);
-            ModuleBuilder moduleBuilder = assemblyBuilder.DefineDynamicModule("DynamicModule");
-            TypeBuilder typeBuilder = moduleBuilder.DefineType(className, TypeAttributes.Public);
-            Type newClass = typeBuilder.CreateType();
-
-            return newClass;
+            Type type = Type.GetType(className);
+            if (type == null)
+            {
+                throw new ArgumentException($"Invalid class name: {className}");
+            }
+            return Activator.CreateInstance(type, param);
         }
 
-        public static object InstanceWithParam(string test)
+        public static I CreateInstance<I>(string className, params object?[]? param) where I : class
         {
-            Type t = Type.GetType(test);
+            
 
-            Object[] arg = { "Mercedes", 200 };
+            Assembly assembly;
 
-            Object o = Activator.CreateInstance(t, arg);
-            return o;
+            assembly = Assembly.GetExecutingAssembly();
+            Type type = assembly.GetType(className);
+            return Activator.CreateInstance(type) as I;
         }
+
 
     }
 }
