@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\bin\Debug\net6.0\RobotService.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\bin\Debug\net6.0\RobotService.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\bin\Debug\net6.0\RobotService.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\bin\Debug\net6.0\RobotService.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\bin\Debug\net6.0\RobotService.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\refint\RobotService.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RobotService\obj\Debug\net6.0\ref\RobotService.dll
