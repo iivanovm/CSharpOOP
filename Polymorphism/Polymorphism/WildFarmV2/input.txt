@@ -1,5 +1,0 @@
-Mouse Jerry 0.5 Anywhere
-Fruit 1000
-Owl Tom 2.5 30
-Meat 5
-End
