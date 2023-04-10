@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\bin\Debug\net6.0\Box.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\bin\Debug\net6.0\Box.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\bin\Debug\net6.0\Box.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\bin\Debug\net6.0\Box.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\bin\Debug\net6.0\Box.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\refint\Box.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\Box.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\Box\obj\Debug\net6.0\ref\Box.dll

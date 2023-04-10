@@ -1,0 +1,14 @@
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.exe
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.deps.json
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.runtimeconfig.json
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.runtimeconfig.dev.json
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.dll
+E:\dw\TryExam\Gym\classrefl\bin\Debug\netcoreapp3.1\classrefl.pdb
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.csproj.AssemblyReference.cache
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.GeneratedMSBuildEditorConfig.editorconfig
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.AssemblyInfoInputs.cache
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.AssemblyInfo.cs
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.csproj.CoreCompileInputs.cache
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.dll
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.pdb
+E:\dw\TryExam\Gym\classrefl\obj\Debug\netcoreapp3.1\classrefl.genruntimeconfig.cache

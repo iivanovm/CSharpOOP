@@ -1,0 +1,15 @@
+E:\dw\test1\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.exe
+E:\dw\test1\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.deps.json
+E:\dw\test1\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.runtimeconfig.json
+E:\dw\test1\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.dll
+E:\dw\test1\WildFarm\WildFarm\bin\Debug\net6.0\WildFarm.pdb
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.csproj.AssemblyReference.cache
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfoInputs.cache
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.AssemblyInfo.cs
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.csproj.CoreCompileInputs.cache
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.dll
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\refint\WildFarm.dll
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.pdb
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\WildFarm.genruntimeconfig.cache
+E:\dw\test1\WildFarm\WildFarm\obj\Debug\net6.0\ref\WildFarm.dll

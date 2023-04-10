@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\bin\Debug\net6.0\PizzaCalories.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\bin\Debug\net6.0\PizzaCalories.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\bin\Debug\net6.0\PizzaCalories.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\bin\Debug\net6.0\PizzaCalories.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\refint\PizzaCalories.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Encapsulation\SortPersonsbyNameandAge\PizzaCalories\obj\Debug\net6.0\ref\PizzaCalories.dll

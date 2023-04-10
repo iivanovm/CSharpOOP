@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\Exceptions\ExceptionsandErrorHandling\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll

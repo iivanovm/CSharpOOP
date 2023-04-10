@@ -1,0 +1,15 @@
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+E:\dw\TryExam\Booking\bin\Debug\net6.0\BookingApp.exe
+E:\dw\TryExam\Booking\bin\Debug\net6.0\BookingApp.deps.json
+E:\dw\TryExam\Booking\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+E:\dw\TryExam\Booking\bin\Debug\net6.0\BookingApp.dll
+E:\dw\TryExam\Booking\bin\Debug\net6.0\BookingApp.pdb
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.dll
+E:\dw\TryExam\Booking\obj\Debug\net6.0\refint\BookingApp.dll
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.pdb
+E:\dw\TryExam\Booking\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+E:\dw\TryExam\Booking\obj\Debug\net6.0\ref\BookingApp.dll

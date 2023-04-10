@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\bin\Debug\net6.0\CustomStack.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\bin\Debug\net6.0\CustomStack.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\bin\Debug\net6.0\CustomStack.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\bin\Debug\net6.0\CustomStack.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\bin\Debug\net6.0\CustomStack.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\refint\CustomStack.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\CustomStack.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomStack\obj\Debug\net6.0\ref\CustomStack.dll

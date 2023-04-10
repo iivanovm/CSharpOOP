@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\bin\Debug\net6.0\Shapes.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\bin\Debug\net6.0\Shapes.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\bin\Debug\net6.0\Shapes.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\bin\Debug\net6.0\Shapes.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\InterfacesandAbstraction\InterfacesandAbstraction\Shapes\obj\Debug\net6.0\ref\Shapes.dll

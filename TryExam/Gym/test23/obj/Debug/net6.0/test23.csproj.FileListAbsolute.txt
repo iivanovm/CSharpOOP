@@ -1,0 +1,15 @@
+E:\dw\TryExam\Gym\test23\bin\Debug\net6.0\test23.exe
+E:\dw\TryExam\Gym\test23\bin\Debug\net6.0\test23.deps.json
+E:\dw\TryExam\Gym\test23\bin\Debug\net6.0\test23.runtimeconfig.json
+E:\dw\TryExam\Gym\test23\bin\Debug\net6.0\test23.dll
+E:\dw\TryExam\Gym\test23\bin\Debug\net6.0\test23.pdb
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.csproj.AssemblyReference.cache
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.GeneratedMSBuildEditorConfig.editorconfig
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.AssemblyInfoInputs.cache
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.AssemblyInfo.cs
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.csproj.CoreCompileInputs.cache
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.dll
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\refint\test23.dll
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.pdb
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\test23.genruntimeconfig.cache
+E:\dw\TryExam\Gym\test23\obj\Debug\net6.0\ref\test23.dll

@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\bin\Debug\net6.0\Zoo.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\bin\Debug\net6.0\Zoo.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\bin\Debug\net6.0\Zoo.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\bin\Debug\net6.0\Zoo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\bin\Debug\net6.0\Zoo.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\refint\Zoo.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\Zoo.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Zoo\obj\Debug\net6.0\ref\Zoo.dll

@@ -1,0 +1,14 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\PlanetWars\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache

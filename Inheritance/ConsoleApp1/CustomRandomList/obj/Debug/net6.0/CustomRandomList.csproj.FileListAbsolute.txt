@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\bin\Debug\net6.0\CustomRandomList.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\CustomRandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

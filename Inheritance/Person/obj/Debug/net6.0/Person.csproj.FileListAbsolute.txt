@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\bin\Debug\net6.0\Person.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\bin\Debug\net6.0\Person.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\bin\Debug\net6.0\Person.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\bin\Debug\net6.0\Person.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\bin\Debug\net6.0\Person.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\refint\Person.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\Person.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\Person\obj\Debug\net6.0\ref\Person.dll

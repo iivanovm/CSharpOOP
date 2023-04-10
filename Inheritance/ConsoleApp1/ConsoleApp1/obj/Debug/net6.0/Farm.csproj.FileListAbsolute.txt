@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Farm.exe
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Farm.deps.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Farm.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Farm.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Farm.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Farm.dll
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.pdb
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Farm.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\OOP\BeforCourse\Inheritance\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Farm.dll

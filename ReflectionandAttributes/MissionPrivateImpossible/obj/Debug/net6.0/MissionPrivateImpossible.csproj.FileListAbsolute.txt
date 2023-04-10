@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\bin\Debug\net6.0\MissionPrivateImpossible.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\refint\MissionPrivateImpossible.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\MissionPrivateImpossible.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\ReflectionandAttributes\MissionPrivateImpossible\obj\Debug\net6.0\ref\MissionPrivateImpossible.dll
