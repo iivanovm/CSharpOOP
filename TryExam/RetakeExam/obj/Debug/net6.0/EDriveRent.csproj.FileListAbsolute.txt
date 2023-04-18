@@ -1,0 +1,15 @@
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\bin\Debug\net6.0\EDriveRent.exe
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\bin\Debug\net6.0\EDriveRent.deps.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\bin\Debug\net6.0\EDriveRent.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\bin\Debug\net6.0\EDriveRent.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.csproj.AssemblyReference.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\refint\EDriveRent.dll
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.pdb
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+F:\GitHubRepo\LastChngbackup\CSharpOOP\CSharpOOP\TryExam\RetakeExam\obj\Debug\net6.0\ref\EDriveRent.dll
